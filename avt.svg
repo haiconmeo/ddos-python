@@ -1,0 +1,124 @@
+<svg version='1.1' baseProfile='full' xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <g id='a1'>
+            <polygon points="100,10 40,198 190,78 10,78 160,198"
+                style="fill:lime;stroke:purple;stroke-width:5;fill-rule:nonzero;" />
+        </g>
+    </defs>
+    <defs>
+        <g id="a2">
+            <use x='5' y='5' xlink:href="#a1" />
+            <use x='10' y='10' xlink:href="#a1" />
+            <use x='15' y='16' xlink:href="#a1" />
+            <use x='20' y='20' xlink:href="#a1" />
+            <use x='25' y='25' xlink:href="#a1" />
+            <use x='30' y='30' xlink:href="#a1" />
+            <use x='40' y='40' xlink:href="#a1" />
+            <use x='45' y='45' xlink:href="#a1" />
+            <use x='50' y='50' xlink:href="#a1" />
+            <use x='55' y='55' xlink:href="#a1" />
+            <use x='60' y='60' xlink:href="#a1" />
+            <use x='65' y='65' xlink:href="#a1" />
+            <use x='70' y='70' xlink:href="#a1" />
+            <use x='75' y='75' xlink:href="#a1" />
+            <use x='80' y='80' xlink:href="#a1" />
+        </g>
+    </defs>
+    <defs>
+        <g id="a3">
+            <use x='5' y='5' xlink:href="#a2" />
+            <use x='10' y='10' xlink:href="#a2" />
+            <use x='15' y='16' xlink:href="#a2" />
+            <use x='20' y='20' xlink:href="#a2" />
+            <use x='25' y='25' xlink:href="#a2" />
+            <use x='30' y='30' xlink:href="#a2" />
+            <use x='40' y='40' xlink:href="#a2" />
+            <use x='45' y='45' xlink:href="#a2" />
+            <use x='50' y='50' xlink:href="#a2" />
+            <use x='55' y='55' xlink:href="#a2" />
+            <use x='60' y='60' xlink:href="#a2" />
+            <use x='65' y='65' xlink:href="#a2" />
+            <use x='70' y='70' xlink:href="#a2" />
+            <use x='75' y='75' xlink:href="#a2" />
+            <use x='80' y='80' xlink:href="#a2" />
+        </g>
+    </defs>
+    <defs>
+        <g id="a4">
+            <use x='5' y='5' xlink:href="#a3" />
+            <use x='10' y='10' xlink:href="#a3" />
+            <use x='15' y='16' xlink:href="#a3" />
+            <use x='20' y='20' xlink:href="#a3" />
+            <use x='25' y='25' xlink:href="#a3" />
+            <use x='30' y='30' xlink:href="#a3" />
+            <use x='40' y='40' xlink:href="#a3" />
+            <use x='45' y='45' xlink:href="#a3" />
+            <use x='50' y='50' xlink:href="#a3" />
+            <use x='55' y='55' xlink:href="#a3" />
+            <use x='60' y='60' xlink:href="#a3" />
+            <use x='65' y='65' xlink:href="#a3" />
+            <use x='70' y='70' xlink:href="#a3" />
+            <use x='75' y='75' xlink:href="#a3" />
+            <use x='80' y='80' xlink:href="#a3" />
+        </g>
+    </defs>
+    <defs>
+        <g id="a5">
+            <use x='5' y='5' xlink:href="#a4" />
+            <use x='10' y='10' xlink:href="#a4" />
+            <use x='15' y='16' xlink:href="#a4" />
+            <use x='20' y='20' xlink:href="#a4" />
+            <use x='25' y='25' xlink:href="#a4" />
+            <use x='30' y='30' xlink:href="#a4" />
+            <use x='40' y='40' xlink:href="#a4" />
+            <use x='45' y='45' xlink:href="#a4" />
+            <use x='50' y='50' xlink:href="#a4" />
+            <use x='55' y='55' xlink:href="#a4" />
+            <use x='60' y='60' xlink:href="#a4" />
+            <use x='65' y='65' xlink:href="#a4" />
+            <use x='70' y='70' xlink:href="#a4" />
+            <use x='75' y='75' xlink:href="#a4" />
+            <use x='80' y='80' xlink:href="#a4" />
+        </g>
+    </defs>
+    <defs>
+        <g id="a6">
+            <use x='5' y='5' xlink:href="#a5" />
+            <use x='10' y='10' xlink:href="#a5" />
+            <use x='15' y='16' xlink:href="#a5" />
+            <use x='20' y='20' xlink:href="#a5" />
+            <use x='25' y='25' xlink:href="#a5" />
+            <use x='30' y='30' xlink:href="#a5" />
+            <use x='40' y='40' xlink:href="#a5" />
+            <use x='45' y='45' xlink:href="#a5" />
+            <use x='50' y='50' xlink:href="#a5" />
+            <use x='55' y='55' xlink:href="#a5" />
+            <use x='60' y='60' xlink:href="#a5" />
+            <use x='65' y='65' xlink:href="#a5" />
+            <use x='70' y='70' xlink:href="#a5" />
+            <use x='75' y='75' xlink:href="#a5" />
+            <use x='80' y='80' xlink:href="#a5" />
+        </g>
+    </defs>
+    <defs>
+        <g id="a7">
+            <use x='5' y='5' xlink:href="#a6" />
+            <use x='10' y='10' xlink:href="#a6" />
+            <use x='15' y='16' xlink:href="#a6" />
+            <use x='20' y='20' xlink:href="#a6" />
+            <use x='25' y='25' xlink:href="#a6" />
+            <use x='30' y='30' xlink:href="#a6" />
+            <use x='40' y='40' xlink:href="#a6" />
+            <use x='45' y='45' xlink:href="#a6" />
+            <use x='50' y='50' xlink:href="#a6" />
+            <use x='55' y='55' xlink:href="#a6" />
+            <use x='60' y='60' xlink:href="#a6" />
+            <use x='65' y='65' xlink:href="#a6" />
+            <use x='70' y='70' xlink:href="#a6" />
+            <use x='75' y='75' xlink:href="#a6" />
+            <use x='80' y='80' xlink:href="#a6" />
+        </g>
+    </defs>
+    <use x='75' y='75' xlink:href="#a1" />
+    <use x='80' y='80' xlink:href="#a1" />
+</svg>
